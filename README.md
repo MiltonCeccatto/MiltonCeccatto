@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Milton Ceccatto 🖐️</h1><br>
 
-<p align="center">Sou aluno de ciência da computação e estou iniciando minha carreira como desenvolvedor</p><br>
+<p align="center">Estou cursando ciência da computação e estou iniciando minha carreira como desenvolvedor</p><br>
 
 <div align="center"> 
   <a href="https://instagram.com/mltcctt22?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
