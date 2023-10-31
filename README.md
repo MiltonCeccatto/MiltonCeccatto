@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Milton Ceccatto 🖐️</h1><br>
 
-<h3 align="center">Estou cursando ciência da computação, utilizo java e C++ para realizar as atividades nas matérias da faculdade, trabalho como desenvolvedor de sistemas junior no setor de TI das Farmácias São João</h3><br>
+<h3 align="center">Estou cursando ciência da computação, utilizo Java e C++ para realizar as atividades nas matérias da faculdade, trabalho como desenvolvedor de sistemas junior no setor de TI das Farmácias São João</h3><br>
 
 <div align="center"> 
   <a href="https://instagram.com/mltcctt22?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
